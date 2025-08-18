@@ -1,0 +1,12 @@
+Revert "Cambio incorrecto"
+
+This reverts commit 423ebe0482f5fbeb2d06a0cce4376109d21465af.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch feature-subtraction
+# Changes to be committed:
+#	deleted:    git
+#	modified:   src/Program/Program.cs
+#

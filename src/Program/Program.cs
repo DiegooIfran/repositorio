@@ -10,3 +10,10 @@ public class Substraction
         return a - b;
     }
 }
+public class Power
+{
+    public static int Squared(int a)
+    {
+        return a * a;
+    }
+}
